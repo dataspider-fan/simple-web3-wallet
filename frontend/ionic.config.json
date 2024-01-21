@@ -1,0 +1,7 @@
+{
+  "name": "simple-wallet-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
